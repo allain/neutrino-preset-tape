@@ -1,0 +1,25 @@
+{
+  "name": "neutrino-preset-tape",
+  "version": "1.0.0",
+  "description": "Neutrino preset for testing Neutrino projects with tape",
+  "main": "src/index.js",
+  "keywords": [
+    "neutrino",
+    "neutrino-preset",
+    "tape"
+  ],
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/allain/neutrino-preset-tape",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.0",
+    "babel-register": "^6.24.0",
+    "change-case": "^3.0.1",
+    "glob": "^7.1.1",
+    "neutrino-middleware-loader-merge": "^5.6.0",
+    "tape": "^4.6.3"
+  },
+  "peerDependencies": {
+    "neutrino": "^5.0.0"
+  }
+}
