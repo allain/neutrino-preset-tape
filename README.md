@@ -159,4 +159,4 @@ This preset is can be found in the repo [https://github.com/allain/neutrino-pres
 
 [npm-image]: https://img.shields.io/npm/v/neutrino-preset-tape.svg
 [npm-downloads]: https://img.shields.io/npm/dt/neutrino-preset-tape.svg
-[npm-url]: https://npmjs.org/package/neutrino-prest-tape
+[npm-url]: https://npmjs.org/package/neutrino-preset-tape
